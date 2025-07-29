@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sucesión de fibonacci/1.0.0": {
+        "runtime": {
+          "Sucesión de fibonacci.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sucesión de fibonacci/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

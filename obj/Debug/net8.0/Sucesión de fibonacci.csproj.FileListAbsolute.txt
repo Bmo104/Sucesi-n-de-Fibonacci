@@ -1,0 +1,14 @@
+C:\Users\Bmo\source\repos\Sucesión de fibonacci\bin\Debug\net8.0\Sucesión de fibonacci.exe
+C:\Users\Bmo\source\repos\Sucesión de fibonacci\bin\Debug\net8.0\Sucesión de fibonacci.deps.json
+C:\Users\Bmo\source\repos\Sucesión de fibonacci\bin\Debug\net8.0\Sucesión de fibonacci.runtimeconfig.json
+C:\Users\Bmo\source\repos\Sucesión de fibonacci\bin\Debug\net8.0\Sucesión de fibonacci.dll
+C:\Users\Bmo\source\repos\Sucesión de fibonacci\bin\Debug\net8.0\Sucesión de fibonacci.pdb
+C:\Users\Bmo\source\repos\Sucesión de fibonacci\obj\Debug\net8.0\Sucesión de fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bmo\source\repos\Sucesión de fibonacci\obj\Debug\net8.0\Sucesión de fibonacci.AssemblyInfoInputs.cache
+C:\Users\Bmo\source\repos\Sucesión de fibonacci\obj\Debug\net8.0\Sucesión de fibonacci.AssemblyInfo.cs
+C:\Users\Bmo\source\repos\Sucesión de fibonacci\obj\Debug\net8.0\Sucesión de fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Bmo\source\repos\Sucesión de fibonacci\obj\Debug\net8.0\Sucesión de fibonacci.dll
+C:\Users\Bmo\source\repos\Sucesión de fibonacci\obj\Debug\net8.0\refint\Sucesión de fibonacci.dll
+C:\Users\Bmo\source\repos\Sucesión de fibonacci\obj\Debug\net8.0\Sucesión de fibonacci.pdb
+C:\Users\Bmo\source\repos\Sucesión de fibonacci\obj\Debug\net8.0\Sucesión de fibonacci.genruntimeconfig.cache
+C:\Users\Bmo\source\repos\Sucesión de fibonacci\obj\Debug\net8.0\ref\Sucesión de fibonacci.dll
